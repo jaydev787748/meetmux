@@ -1,0 +1,20 @@
+{
+  "name": "microservice-system",
+  "version": "1.0.0",
+  "description": "User and Order Microservices with inter-service communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.3"
+  }
+}
+// 
