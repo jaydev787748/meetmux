@@ -36,7 +36,5 @@ The system consists of two microservices: User Service and Order Service.
 - Implement retry logic on inter-service calls.
 - Authentication and authorization for endpoints.
 
-i store data in this form my main folder is jaydev787748@gmail.com
-now what is the next step because i only create my folder and other folder and create this project, structure and these code how i upload this on github
-terminal open hone ke bad kya commend push kru windows cmd mai
+
 
