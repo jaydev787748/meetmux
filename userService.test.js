@@ -19,4 +19,7 @@ describe('User Service', () => {
   it('returns 404 on missing user', async () => {
     await request(app).get('/users/nonexistent').expect(404);
   });
+  if( 2 != 3){
+    // console.log("hu");
+  }
 });
